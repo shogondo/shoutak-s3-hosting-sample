@@ -1,0 +1,1 @@
+# shoutak-s3-hosting-sample
